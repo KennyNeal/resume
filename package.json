@@ -2,13 +2,16 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "init": "resumed init",
-    "start": "resumed render resume.json --theme jsonresume-theme-react",
-    "build": "resumed render resume.json --theme jsonresume-theme-react && cp resume.html public/index.html"
+    "init": "resume init",
+    "start": "resume export resume.json --theme jsonresume-theme-react",
+    "build": "resume export resume.json --theme jsonresume-theme-react && cp resume.html public/index.html"
   },
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
     "jsonresume-theme-react": "1.0.4",
-    "resumed": "^3.0.1"
+    "resume-cli": "^3.7.2"
+  },
+  "allowScripts": {
+    "core-js@2.6.12": true
   }
 }
