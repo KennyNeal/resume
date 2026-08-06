@@ -10,7 +10,7 @@
     "label": "Lead Innovation Engineer",
     "email": "kneal30@gmail.com",
     "phone": "(225) 936-1110",
-    "summary": "Lead Innovation Engineer at Blue Cross and Blue Shield of Louisiana with over a decade of experience spanning infrastructure operations, database administration, and site reliability engineering. Recognized inside the organization as the go-to technical authority for Infrastructure and Operations, routinely advising management on priorities, design alternatives, and vendor decisions. Built and operate the batch job approval-and-execution platform used across I&O, automated infrastructure monitoring and decommissioning workflows with PowerShell and API integrations, and led HA/DR architecture for the company's core claims-processing systems. President of Baton Rouge User Groups, the nonprofit overseeing Baton Rouge's SQL, .NET, and Analytics user groups, and Chair of the Baton Rouge SQL Saturday Planning Committee.",
+    "summary": "Lead Innovation Engineer at Blue Cross and Blue Shield of Louisiana with over a decade in infrastructure operations, database administration, and site reliability engineering. I'm the person Infrastructure and Operations comes to for technical decisions, from design tradeoffs to vendor picks. I built the batch job approval-and-execution platform I&O runs on, automated infrastructure monitoring and decommissioning with PowerShell and API integrations, and led HA/DR architecture for the company's core claims-processing systems. Outside of work, I'm President of Baton Rouge User Groups and chair the Baton Rouge SQL Saturday planning committee.",
     "location": {
       "address": "43093 Dockside Ct.",
       "region": "Louisiana",
@@ -31,11 +31,11 @@
       "name": "Blue Cross and Blue Shield of Louisiana",
       "position": "Lead Innovation Engineer",
       "startDate": "2026-03-01",
-      "summary": "Promoted to Lead Innovation Engineer in March 2026, extending prior SRE responsibilities for Infrastructure and Operations while building rapid, AI-assisted solutions to operational problems.",
+      "summary": "Promoted to Lead Innovation Engineer in March 2026, building on my SRE work for Infrastructure and Operations while using AI-assisted development to solve operational problems faster.",
       "highlights": [
-        "Continue to serve as the senior technical authority for Infrastructure and Operations processes and technology, advising management on priorities and technical alternatives.",
-        "Use AI-assisted development tools to rapidly prototype and ship quick-win internal applications that close operational gaps for I&O and business partners.",
-        "Own and extend the batch job approval-and-execution platform and infrastructure automation workflows built during the SRE role."
+        "Still the go-to technical resource for I&O, weighing in on priorities and technical direction for management and other teams.",
+        "Prototype and ship internal applications with AI-assisted development tools, closing operational gaps for I&O and business partners quickly.",
+        "Own and continue building out the batch job approval-and-execution platform and infrastructure automation from the SRE role."
       ]
     },
     {
@@ -43,13 +43,13 @@
       "position": "Lead Site Reliability Engineer",
       "startDate": "2022-02-01",
       "endDate": "2026-03-01",
-      "summary": "Served as the senior technical authority for Infrastructure and Operations, driving monitoring, batch processing, and infrastructure automation improvements across the estate.",
+      "summary": "Senior technical resource for Infrastructure and Operations, driving improvements to monitoring, batch processing, and infrastructure automation across the estate.",
       "highlights": [
-        "Served as the senior technical expert for Infrastructure and Operations processes and technology, presenting priorities and technical alternatives to management and cross-functional teams.",
-        "Designed and built a custom ServiceNow application to govern batch job systems end-to-end, replacing manual approval and execution with automated, auditable API-driven workflows.",
-        "Worked hands-on with Control-M for batch job scheduling and SolarWinds/SCOM for infrastructure monitoring as part of I&O's monitoring and batch platforms.",
-        "Streamlined and automated the infrastructure deprovisioning process using PowerShell and API calls, reducing the time to complete a decommission request by 99% and improving overall infrastructure availability and hygiene.",
-        "Met regularly with other teams to scope and plan automation projects that reduced operational toil for I&O staff."
+        "Go-to technical expert for I&O, presenting priorities and technical options to management and cross-functional teams.",
+        "Built a custom ServiceNow application to govern batch job systems end-to-end, replacing manual approval and execution with automated, auditable API-driven workflows.",
+        "Worked hands-on with Control-M for batch job scheduling and SolarWinds/SCOM for infrastructure monitoring.",
+        "Automated the infrastructure deprovisioning process with PowerShell and API calls, cutting decommission turnaround by 99% and improving overall infrastructure hygiene.",
+        "Partnered with other teams to scope and plan automation projects that cut down on manual, repetitive work for I&O staff."
       ]
     },
     {
@@ -57,15 +57,15 @@
       "position": "Lead Database Administrator",
       "startDate": "2015-09-01",
       "endDate": "2022-01-01",
-      "summary": "Architected and deployed SQL Server environments, ensuring HA/DR requirements were met while automating upgrades to the company's main claims processing system.",
+      "summary": "Designed and deployed SQL Server environments, keeping HA/DR requirements in check while automating upgrades to the company's main claims processing system.",
       "highlights": [
-        "Architected and deployed SQL Server environments and ensured that HA and DR requirements were met, maintaining security, backup, and redundancy strategies for critical claims infrastructure.",
-        "Proactively monitored the SQL Server estate for health and performance, identifying bottlenecks and working with developers to resolve them before end users were impacted.",
-        "Designed and automated the deployment and upgrading of the company's main claims processing system, accomplishing upgrades and infrastructure refreshes in minutes instead of hours to maximize system availability.",
-        "Automated the deployment of a full DR environment for use in disaster recovery drills, validating recovery and redundancy procedures.",
-        "Worked across teams to streamline processes and manage internal customer requests in a timely manner, providing 2nd- and 3rd-level technical support.",
-        "Served as backup to the Oracle DBA.",
-        "Recognized multiple times with a SPOT award for going above and beyond to serve customers."
+        "Designed and deployed SQL Server environments, meeting HA/DR requirements and maintaining security, backup, and redundancy for critical claims infrastructure.",
+        "Monitored the SQL Server estate for health and performance, catching bottlenecks early and working with developers to fix them before users noticed.",
+        "Automated deployment and upgrades for the company's main claims processing system, cutting upgrade and refresh windows from hours to minutes to maximize uptime.",
+        "Automated deployment of a full DR environment for disaster recovery drills, validating recovery and redundancy procedures.",
+        "Worked across teams to streamline processes and handle internal customer requests, providing 2nd- and 3rd-level technical support.",
+        "Backed up the Oracle DBA.",
+        "Received multiple SPOT awards for going above and beyond for customers."
       ]
     },
     {
@@ -73,12 +73,12 @@
       "position": "Database Administrator",
       "startDate": "2013-10-01",
       "endDate": "2015-09-01",
-      "summary": "Responsible for over 300 SQL Server instances, ensuring performance and high availability of critical databases.",
+      "summary": "Managed over 300 SQL Server instances, keeping critical databases performant and highly available.",
       "highlights": [
-        "Responsible for over 300 SQL Server instances, managing and monitoring installed systems and infrastructure across the estate.",
-        "Actively monitored production system performance for potential bottlenecks and worked with other groups to correct issues before end users were impacted.",
-        "Reviewed code from developers to ensure that queries were optimal before being released to production.",
-        "Ensured that critical databases were configured for high availability."
+        "Managed and monitored over 300 SQL Server instances across the estate.",
+        "Monitored production performance for bottlenecks and worked with other groups to fix issues before users were impacted.",
+        "Reviewed developer queries for performance before release to production.",
+        "Configured critical databases for high availability."
       ]
     }
   ],
@@ -121,8 +121,8 @@
       ],
       "type": "Community Event",
       "highlights": [
-        "Chair the Baton Rouge SQL Saturday Planning Committee, coordinating speakers, sponsors, and volunteers over months of planning each year.",
-        "Helped grow the event into a full day of free training drawing Louisiana IT and data professionals for learning, networking, and mentorship."
+        "Chair the planning committee, coordinating speakers, sponsors, and volunteers each year.",
+        "Helped grow the event into a full day of free training that draws Louisiana IT and data professionals for learning, networking, and mentorship."
       ]
     }
   ],
@@ -224,7 +224,7 @@
       "organization": "Baton Rouge SQL Server User Group",
       "position": "President",
       "startDate": "2020-08-01",
-      "summary": "Lead the Baton Rouge SQL Server User Group, sustaining a 6+ year community of Louisiana data professionals through regular meetups and knowledge sharing."
+      "summary": "Lead the Baton Rouge SQL Server User Group, running a community of Louisiana data professionals through regular meetups and knowledge sharing."
     },
     {
       "organization": "Baton Rouge SQL Saturday Planning Committee",
